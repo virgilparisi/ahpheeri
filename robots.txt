@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maedahgoo.airmotiveservice.com/sitemap.xml
